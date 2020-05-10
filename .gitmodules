@@ -775,8 +775,7 @@
 [submodule "extensions/ContributionScores"]
 	path = extensions/ContributionScores
 	url = https://github.com/wikimedia/mediawiki-extensions-ContributionScores
-	branch = REL1_34
-	ignore = dirty
+	branch = master
 [submodule "extensions/TocTree"]
 	path = extensions/TocTree
 	url = https://github.com/wikimedia/mediawiki-extensions-TocTree
